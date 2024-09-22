@@ -50,7 +50,7 @@ end)
 
 RegisterCommand("allwindow",function()
     for all = 0, 3 do
-        SetWindow(i)
+        SetWindow(all)
       end
 end)
 
