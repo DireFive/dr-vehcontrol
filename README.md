@@ -7,7 +7,7 @@
 # 🔥Features🔥
 ### 🛡️Standalone: Works on any FiveM server with ox_lib installed.
 ### 🚗Customizable Vehicle Control: Players can open any doors, windows check information about their vehicles.
-### ⚙️Performance Optimized: Lightweight and efficient for smooth server performance.
+### ⚙️Performance Optimized: 0.00MS Resmon.
 ### 🔧Fully customizable.
 # 🛠️Requirements🛠️
 ### FiveM Server with the latest recommended build
