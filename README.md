@@ -8,5 +8,5 @@ This is a standalone vehicle control script designed for FiveM using Lua, built 
 🔧Fully customizable.
 🛠️Requirements🛠️
 FiveM Server with the latest recommended build
-ox_lib (as the only dependency)
+ox_lib (as the only dependency) 
 	
